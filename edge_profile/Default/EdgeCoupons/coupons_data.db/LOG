@@ -1,0 +1,5 @@
+2026/06/15-15:00:01.357 ee4 Creating DB C:\Users\ASUS\.gemini\antigravity\scratch\leetcode-helper-showcase\edge_profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/06/15-15:00:01.374 ee4 Reusing MANIFEST C:\Users\ASUS\.gemini\antigravity\scratch\leetcode-helper-showcase\edge_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/06/15-15:00:02.164 4ef4 Level-0 table #5: started
+2026/06/15-15:00:02.181 4ef4 Level-0 table #5: 682669 bytes OK
+2026/06/15-15:00:02.185 4ef4 Delete type=0 #3
